@@ -4,9 +4,9 @@
 - I'm an enthousiast Junior Web Developer 💻
 - I'm looking for a company for an apprenticeship contract with WildCodeSchool in Septembre 2023 🚀🚀🚀
 - I was a vet for the last 10 years 🐶😸🐰🐹
-- I'm currently trying to survive beeing a mom on the day 👦👶, and a dev student at night ! 🦸
+- I'm currently trying to survive beeing a mom on the day 👦👶, and a dev student at night 🦸 !
 - I'm interrested in education, science, nature and ecology 🌎
-- I live in Villeneuve-sur-Lot in France and I love 'chocolatines' 🇫🇷
+- I live in Villeneuve-sur-Lot in France 🇫🇷 and I love 'chocolatines'😋
 
 ### The tools is use 
 ![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
