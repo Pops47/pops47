@@ -1,4 +1,5 @@
-### Hi there 👋            ![alt text](https://github.com/Pops47/pops47/blob/main/assets/images/cat-on-laptop.jpg) 
+![alt text](https://github.com/Pops47/pops47/blob/main/assets/images/cat-on-laptop.jpg) 
+### Hi there 👋            
 
 
 
