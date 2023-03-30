@@ -1,6 +1,7 @@
 ### Hi there 👋
   
-![alt text](https://github.com/Pops47/pops47/assets/images/cat-on-laptop.jpg?raw=true)
+![alt text](https://github.com/Pops47/pops47/tree/main/assets/images/cat-on-laptop.jpg?raw=true)
+
 
 <!--
 **Pops47/pops47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
