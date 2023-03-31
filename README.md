@@ -35,5 +35,5 @@
 
 ### Contact Me 🔥
 
-[![alt linkedin logo](https://steemitimages.com/DQmXsUhr1QvYsmUWjN3oDgfoMGp3zJzE8Wahq4s1PgdcUMg/shark.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
+[![alt linkedin logo](https://github.com/Pops47/pops47/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
 
