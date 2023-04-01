@@ -1,7 +1,7 @@
 ![alt text](https://github.com/Pops47/pops47/blob/main/assets/images/cat-on-laptop.jpg) 
 ### Hi I'm Pauline 👋     
 
-- I'm an enthousiast Junior Web Developer 💻
+- I'm an enthusiast Junior Web Developer 💻
 - I was a vet for the last 10 years 🐶😸🐰🐹
 - I live in Villeneuve-sur-Lot in France 🇫🇷 and I love 'chocolatines'😋
 - I'm looking for a company to start an apprenticeship contract in Septembre 2023 🚀🚀🚀
