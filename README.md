@@ -2,7 +2,7 @@
 ### Hi I'm Pauline 👋     
 
 - I'm an enthusiast Junior Web Developer 💻
-- I was a vet for the last 10 years 🐶😸🐰🐹
+- I've been a vet for 10 years 🐶😸🐰🐹
 - I live in Villeneuve-sur-Lot in France 🇫🇷 and I love 'chocolatines'😋
 - I'm looking for a company to start an apprenticeship contract in Septembre 2023 🚀🚀🚀
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
