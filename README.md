@@ -4,7 +4,7 @@
 - I'm an enthusiast Junior Web Developer 💻
 - I'm looking for a company to start an apprenticeship contract in Septembre 2023 🚀🚀🚀
 - I've been a vet for 10 years 🐶😸🐰🐹
-- I live in Villeneuve-sur-Lot in France 🇫🇷 and I love 'chocolatines'😋
+- I live in Villeneuve-sur-Lot in France 🇫🇷
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
 - I'm currently trying to survive beeing a mom on the day 👦👶, and a dev student at night 🦸 !
 
