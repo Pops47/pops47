@@ -1,9 +1,8 @@
 ![alt text](https://github.com/Pops47/pops47/blob/main/assets/images/cat-on-laptop.jpg) 
 ### Hi I'm Pauline 👋     
 
-- I'm an enthusiast Junior Web Developer and you can see my work on my [Portfolio](https://deft-entremet-bff3c5.netlify.app/) 💻
+- I'm an enthusiast Junior Web Developer and you can see my work on my <a href="https://deft-entremet-bff3c5.netlify.app" target="_blank">Portfolio</a> 💻
 - I'm looking for a company to start an apprenticeship contract in Septembre 2023 🚀🚀🚀
-  
 - I've been a vet for 10 years 🐶😸🐰🐹
 - I live in Villeneuve-sur-Lot in France 🇫🇷
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
