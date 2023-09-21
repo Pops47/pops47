@@ -6,7 +6,7 @@
 - I've been a vet for 10 years 🐶😸🐰🐹
 - I live in Villeneuve-sur-Lot in France 🇫🇷
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
-- I'm currently trying to survive beeing a mom on the day 👦👶, and a dev student at night 🦸 !
+- Mom of 2 👦👶 when I'm not coding 🦸 !
 
 ### The tools is use 🛠️
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
