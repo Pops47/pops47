@@ -2,13 +2,12 @@
 ### Hi I'm Pauline 👋     
 
 - I'm an enthusiast Junior Web Developer and you can see my work on my <a href="https://pauline-soubrie.netlify.app/" target="_blank">Portfolio</a> 💻
-- I'm looking for a company to start an apprenticeship contract in 2024 🚀🚀🚀
 - I've been a vet for 10 years 🐶😸🐰🐹
 - I live in Villeneuve-sur-Lot in France 🇫🇷
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
 - Mom of 2 👦👶 when I'm not coding 🦸 !
 
-### The tools is use 🛠️
+### Some tools is use 🛠️
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
