@@ -42,6 +42,6 @@
 
 ### Contact Me 🔥
 
-[![GitHub](https://github.com/Pops47/pops47/blob/main/assets/images/github.png)](https://github.com/Pops47)&nbsp;
-[![Linkedin](https://github.com/Pops47/pops47/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
-[![Mail](https://github.com/Pops47/pops47/blob/main/assets/images/email.png)](mailto:pauline.soubrie.pro@gmail.com)
+[![Linkedin](https://github.com/Pops47/pops47/blob/main/linkedin.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
+
+[![Mail](https://github.com/Pops47/pops47/blob/main/mail.png)](mailto:pauline.soubrie.pro@gmail.com)
