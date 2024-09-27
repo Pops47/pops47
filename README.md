@@ -45,5 +45,5 @@
 
 ### Contact Me 🔥
 
-[![Linkedin](https://github.com/Pops47/pops47/blob/main/linkedin.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
+[![Linkedin](https://github.com/Pops47/pops47/blob/main/assets/images/linkedin.png)](https://www.linkedin.com/in/pauline-soubri%C3%A9-a3a570236/)
 [![Mail](https://github.com/Pops47/pops47/blob/main/mail.png)](mailto:pauline.soubrie.pro@gmail.com)
