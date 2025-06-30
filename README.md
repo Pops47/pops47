@@ -21,6 +21,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Nest](https://img.shields.io/badge/Nest.js-000000?style=for-the-badge&logo=nestjs&logoColor=red)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354c.svg?logo=python&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySql-316192?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
