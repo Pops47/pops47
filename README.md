@@ -4,7 +4,7 @@
 - I'm an enthusiast Junior Web Developer and you can see my work on my <a href="https://pauline-soubrie.netlify.app/" target="_blank">Portfolio</a> 💻
 - I've been a vet for 10 years and switched to a career in IT 3 years ago. 🐶😸🐰🐹
 - I love learning new stuff and i'm also interrested in education, science,  and ecology 🌎
-- I live in Villeneuve-sur-Lot in France 🇫🇷
+- I live near Agen in France 🇫🇷
 - Mom of 2 👦👶 when I'm not coding 🦸 !
 
 ### Some tools is use 🛠️
